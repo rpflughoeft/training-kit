@@ -12,7 +12,7 @@
       switchScope(false, scopeRadios[i].id);
     }
   }
-
+Added in B001A
   function switchScope(event, id){
     var activeId;
 
