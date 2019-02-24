@@ -23,7 +23,8 @@ Added in B001A
     else if (id){
       activeId = id;
     }
-
+ New line in B001A 3:15
+ 
     console.log("ActiveId: " + activeId);
 
     var scopeWrapper = document.getElementById("scope");
