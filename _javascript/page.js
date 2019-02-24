@@ -8,3 +8,5 @@ $(function() {
     }
   });
 });
+ 
+New line at master
