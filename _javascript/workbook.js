@@ -25,6 +25,8 @@ Added in B001A
     }
  New line in B001A 3:15
  
+ new line in B001A 3:39
+ 
     console.log("ActiveId: " + activeId);
 
     var scopeWrapper = document.getElementById("scope");
