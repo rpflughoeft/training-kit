@@ -13,7 +13,7 @@ $(function(){
   var urlSearch = window.location.search,
       teacherQuery = urlSearch.match(/teacher=[a-z,A-Z,0-9]*/),
       username;
-
+Added to Master
   if(teacherQuery && teacherQuery.length == 1){
     username = teacherQuery[0].substring(8, teacherQuery[0].length);
 
