@@ -97,6 +97,8 @@ Added to Master
     });
   }
 
+  MMM 7:46
+  
   // Bind checkbox toggle for TOC
   var shortcuts = {};
   shortcuts.toggle = function(event){
