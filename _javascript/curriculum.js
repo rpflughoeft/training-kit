@@ -98,6 +98,7 @@ Added to Master
   }
 
   MMM 7:46
+  NNN 7:47
   
   // Bind checkbox toggle for TOC
   var shortcuts = {};
